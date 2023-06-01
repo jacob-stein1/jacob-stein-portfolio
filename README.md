@@ -1,3 +1,3 @@
-My portfolio website built with React and Sanity.
+My portfolio website built with React and Sanity backend.
 
-Guidance taken from JavaScript Mastery
+Template taken from JavaScript Mastery.
